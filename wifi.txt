@@ -1,0 +1,5 @@
+To find howmany wifis have been connected with your system.Type
+"netsh wlan show profile"
+To chech password of any particular network type
+"netsh wlan show profile your_nwname key=clear"
+Check the contents of security settings.
